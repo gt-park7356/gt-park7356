@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요.&fontAlignY=50&rotate=0&descAlign=60&section=header&reversal=false)
+
 <!--
 **gt-park7356/gt-park7356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
